@@ -1,4 +1,7 @@
 momentum - PHP Time Formatting for Humans
 ========
 
-**Documentation
+momentum is a simple PHP class to format time intervals to make them better looking and easier to read.
+
+Documentation
+--------
